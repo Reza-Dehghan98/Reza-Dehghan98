@@ -1,3 +1,3 @@
--  Hi, There I’m Reza-Dehghan
+- Hi, There I’m Reza-Dehghan
 - Im an Embedded System Developer
-- 🌱 I’m currently learning Rust and FreeRtos 
+- I’m currently learning Rust and FreeRtos 
